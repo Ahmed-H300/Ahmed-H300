@@ -2,7 +2,7 @@
 
 # Hi there 👋, My name is [Ahmed Hany](https://www.linkedin.com/in/ahmed-hany-33b3b420a/)
 
-## I'm a Software Engineer, and I'm a Full Stack Developer 💻
+## I'm a Software Engineer interested in Full Stack Development, Machine Learning and Neural Networks 💻
 
 <!-- image in markdown -->
 ![Cooding](code.gif)
