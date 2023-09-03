@@ -10,7 +10,7 @@
 ## <img align="center"  height =50px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> About Me <a id = "about"></a>
 
 - 🤔&nbsp; Exploring new technologies and developing programming insights.
-- 🚀 Backend Software Engineer <a href="https://www.linkedin.com/company/egabifsi/">@EgabiFSI</a>
+- 🚀 Former Backend Software Engineer <a href="https://www.linkedin.com/company/egabifsi/">@EgabiFSI</a>
 - 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 - 🧠 &nbsp;I'am currently improving my FullStack Knowledge.
 - 💻&nbsp;I'am currently learning Machine Learning and Artificial Intelligance.
